@@ -6,32 +6,77 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© {year}</copyright>
-    <lastBuildDate>Sun, 11 Oct 2020 16:29:23 +0900</lastBuildDate><atom:link href="https://hyounoh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Hyounoh Shim © {year}</copyright>
+    <lastBuildDate>Sun, 11 Oct 2020 18:38:47 +0900</lastBuildDate><atom:link href="https://hyounoh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Keyword #1</title>
-      <link>https://hyounoh.github.io/tags/keyword-#1/</link>
-      <pubDate>Sun, 11 Oct 2020 16:29:23 +0900</pubDate>
+      <title>android</title>
+      <link>https://hyounoh.github.io/tags/android/</link>
+      <pubDate>Sun, 11 Oct 2020 18:38:47 +0900</pubDate>
       
-      <guid>https://hyounoh.github.io/tags/keyword-#1/</guid>
+      <guid>https://hyounoh.github.io/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Keyword #2</title>
-      <link>https://hyounoh.github.io/tags/keyword-#2/</link>
-      <pubDate>Sun, 11 Oct 2020 16:29:23 +0900</pubDate>
+      <title>django</title>
+      <link>https://hyounoh.github.io/tags/django/</link>
+      <pubDate>Sun, 11 Oct 2020 18:38:47 +0900</pubDate>
       
-      <guid>https://hyounoh.github.io/tags/keyword-#2/</guid>
+      <guid>https://hyounoh.github.io/tags/django/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Keyword #3</title>
-      <link>https://hyounoh.github.io/tags/keyword-#3/</link>
-      <pubDate>Sun, 11 Oct 2020 16:29:23 +0900</pubDate>
+      <title>flutter</title>
+      <link>https://hyounoh.github.io/tags/flutter/</link>
+      <pubDate>Sun, 11 Oct 2020 18:38:47 +0900</pubDate>
       
-      <guid>https://hyounoh.github.io/tags/keyword-#3/</guid>
+      <guid>https://hyounoh.github.io/tags/flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ios</title>
+      <link>https://hyounoh.github.io/tags/ios/</link>
+      <pubDate>Sun, 11 Oct 2020 18:38:47 +0900</pubDate>
+      
+      <guid>https://hyounoh.github.io/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobile</title>
+      <link>https://hyounoh.github.io/tags/mobile/</link>
+      <pubDate>Sun, 11 Oct 2020 18:38:47 +0900</pubDate>
+      
+      <guid>https://hyounoh.github.io/tags/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysql</title>
+      <link>https://hyounoh.github.io/tags/mysql/</link>
+      <pubDate>Sun, 11 Oct 2020 18:38:47 +0900</pubDate>
+      
+      <guid>https://hyounoh.github.io/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx</title>
+      <link>https://hyounoh.github.io/tags/nginx/</link>
+      <pubDate>Sun, 11 Oct 2020 15:45:53 +0900</pubDate>
+      
+      <guid>https://hyounoh.github.io/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://hyounoh.github.io/tags/web/</link>
+      <pubDate>Sun, 11 Oct 2020 15:45:53 +0900</pubDate>
+      
+      <guid>https://hyounoh.github.io/tags/web/</guid>
       <description></description>
     </item>
     

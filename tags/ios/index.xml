@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ios on Blog</title>
+    <link>https://hyounoh.github.io/tags/ios/</link>
+    <description>Recent content in ios on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Hyounoh Shim © {year}</copyright>
+    <lastBuildDate>Sun, 11 Oct 2020 18:38:47 +0900</lastBuildDate><atom:link href="https://hyounoh.github.io/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>예전의 난 개발기 - 1</title>
+      <link>https://hyounoh.github.io/product/beforelife_1/</link>
+      <pubDate>Sun, 11 Oct 2020 18:38:47 +0900</pubDate>
+      
+      <guid>https://hyounoh.github.io/product/beforelife_1/</guid>
+      <description>제목 1 ㅇㅇㅇ ㅇㅇㅇ
+소제목 1-1 ㅇㅇㅇ
+소제목 1-2 ㅇㅇㅇ
+제목 2 ㅇㅇㅇ ㅇㅇㅇ
+소제목 2-1 ㅇㅇㅇ
+소제목 2-2 ㅇㅇㅇ</description>
+    </item>
+    
+  </channel>
+</rss>
