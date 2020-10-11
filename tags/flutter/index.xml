@@ -7,19 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Hyounoh Shim © {year}</copyright>
-    <lastBuildDate>Sun, 11 Oct 2020 18:38:47 +0900</lastBuildDate><atom:link href="https://hyounoh.github.io/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Oct 2020 02:00:00 +0900</lastBuildDate><atom:link href="https://hyounoh.github.io/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>예전의 난 개발기 - 1</title>
       <link>https://hyounoh.github.io/product/beforelife_1/</link>
-      <pubDate>Sun, 11 Oct 2020 18:38:47 +0900</pubDate>
+      <pubDate>Sat, 10 Oct 2020 02:00:00 +0900</pubDate>
       
       <guid>https://hyounoh.github.io/product/beforelife_1/</guid>
-      <description>제목 1 ㅇㅇㅇ ㅇㅇㅇ
-소제목 1-1 ㅇㅇㅇ
-소제목 1-2 ㅇㅇㅇ
-제목 2 ㅇㅇㅇ ㅇㅇㅇ
-소제목 2-1 ㅇㅇㅇ
-소제목 2-2 ㅇㅇㅇ</description>
+      <description>시작 가끔 짐 정리를 하다 예전에 썼던 일기를 발견할 때가 있다.
+그 내용은 매번 새롭게 느껴지지만, 일기를 읽고 난 후의 행동은 항상 같다.
+다시 일기 쓰기.
+일기를 다시 쓰다 보면 예전의 난 어떤 생각을 하고 살았는지 궁금해진다.
+같은 시간 어제의 난 어떤 생각을 했는지, 작년의 10월 9일엔 어땠는지.
+IA  일기 쓰기 일기 보기  오늘과 관련된 일기 목록 (요일, 일, 월)   소셜 로그인 (Kakao, Google)  Stack  Client  Flutter   Server  Django Rest Framework   Database  MySQL    Camera, Bluetooth 등의 Device 기능이 필요하지 않고, GL 등의 고성능 처리가 필요하지 않기 때문에 Flutter를 이용한 cross-platform 개발을 한다.</description>
     </item>
     
   </channel>

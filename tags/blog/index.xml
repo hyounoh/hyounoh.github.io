@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Blog</title>
+    <link>https://hyounoh.github.io/tags/blog/</link>
+    <description>Recent content in blog on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Hyounoh Shim © {year}</copyright>
+    <lastBuildDate>Fri, 09 Oct 2020 02:00:00 +0900</lastBuildDate><atom:link href="https://hyounoh.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://hyounoh.github.io/product/about/</link>
+      <pubDate>Fri, 09 Oct 2020 02:00:00 +0900</pubDate>
+      
+      <guid>https://hyounoh.github.io/product/about/</guid>
+      <description>Product 시리즈에 관하여 </description>
+    </item>
+    
+  </channel>
+</rss>
