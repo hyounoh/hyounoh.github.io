@@ -14,12 +14,10 @@
       <pubDate>Sun, 11 Oct 2020 15:45:53 +0900</pubDate>
       
       <guid>https://hyounoh.github.io/dlog/nginx_reverse_proxy/</guid>
-      <description>제목 1 ㅇㅇㅇ ㅇㅇㅇ
-소제목 1-1 ㅇㅇㅇ
-소제목 1-2 ㅇㅇㅇ
-제목 2 ㅇㅇㅇ ㅇㅇㅇ
-소제목 2-1 ㅇㅇㅇ
-소제목 2-2 ㅇㅇㅇ</description>
+      <description>nginx는 apache와 같은 역할을 하는 http server software이다. 따라서 기본적인 web server와 reverse proxy server 역할을 한다.
+설정 directory는 /etc/nginx이며, 서버 directory는 /var/www/html이다. nginx.conf가 주 설정 파일이며 include를 이용해 sites-enabled와 conf.d directory 내의 설정 파일을 불러온다.
+sites-enabled directory는 site-available directory의 virtual host default 및 사용자 정의 설정 파일 sym link를 포함한다.
+따라서 사용자 정의 virtual host를 수정하려면 sites-available에 설정 파일을 만들고 해당 파일의 symbolic link를 site-enabled에 저장한 뒤 nginx를 reload 한다.</description>
     </item>
     
   </channel>
