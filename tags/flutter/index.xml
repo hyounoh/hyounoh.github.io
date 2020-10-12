@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Hyounoh Shim © {year}</copyright>
-    <lastBuildDate>Fri, 09 Oct 2020 04:00:00 +0900</lastBuildDate><atom:link href="https://hyounoh.github.io/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Oct 2020 22:52:20 +0900</lastBuildDate><atom:link href="https://hyounoh.github.io/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>예전의 난 개발기 - 2</title>
+      <link>https://hyounoh.github.io/product/beforelife_2/</link>
+      <pubDate>Sun, 11 Oct 2020 22:52:20 +0900</pubDate>
+      
+      <guid>https://hyounoh.github.io/product/beforelife_2/</guid>
+      <description>환경 구축 사용중인 AWS EC2(t3.medium)에 docker를 이용해 mysql을 설치했다.
+ docker 설치 및 확인  $ curl -fsSL https://get.docker.com/ | sudo sh $ docker --version   docker mysql 설치  $ docker pull mysql:[version] $ docker images $ docker run -d -p 3306:3306 -e MYSQL_ROOT_PASSWORD=[password] --name [container-name] -v [path-to-data]:/var/lib/mysql mysql:[version]   database 생성  $ docker exec -it [container-name] bash # mysql -uroot -p &amp;gt; create database [database-name]; &amp;gt; create user &#39;username&#39;@&#39;%&#39; identified by &#39;password&#39;; &amp;gt; grant all privileges on [database-name].</description>
+    </item>
+    
     <item>
       <title>예전의 난 개발기 - 1</title>
       <link>https://hyounoh.github.io/product/beforelife_1/</link>
