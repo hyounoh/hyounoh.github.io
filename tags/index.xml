@@ -1,102 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Blog</title>
+    <title>Tags on Hyounoh&#39;s Blog</title>
     <link>https://hyounoh.github.io/tags/</link>
-    <description>Recent content in Tags on Blog</description>
+    <description>Recent content in Tags on Hyounoh&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Hyounoh Shim © {year}</copyright>
-    <lastBuildDate>Sun, 11 Oct 2020 22:52:20 +0900</lastBuildDate><atom:link href="https://hyounoh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>android</title>
-      <link>https://hyounoh.github.io/tags/android/</link>
-      <pubDate>Sun, 11 Oct 2020 22:52:20 +0900</pubDate>
-      
-      <guid>https://hyounoh.github.io/tags/android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>django</title>
-      <link>https://hyounoh.github.io/tags/django/</link>
-      <pubDate>Sun, 11 Oct 2020 22:52:20 +0900</pubDate>
-      
-      <guid>https://hyounoh.github.io/tags/django/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>flutter</title>
-      <link>https://hyounoh.github.io/tags/flutter/</link>
-      <pubDate>Sun, 11 Oct 2020 22:52:20 +0900</pubDate>
-      
-      <guid>https://hyounoh.github.io/tags/flutter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ios</title>
-      <link>https://hyounoh.github.io/tags/ios/</link>
-      <pubDate>Sun, 11 Oct 2020 22:52:20 +0900</pubDate>
-      
-      <guid>https://hyounoh.github.io/tags/ios/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mobile</title>
-      <link>https://hyounoh.github.io/tags/mobile/</link>
-      <pubDate>Sun, 11 Oct 2020 22:52:20 +0900</pubDate>
-      
-      <guid>https://hyounoh.github.io/tags/mobile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mysql</title>
-      <link>https://hyounoh.github.io/tags/mysql/</link>
-      <pubDate>Sun, 11 Oct 2020 22:52:20 +0900</pubDate>
-      
-      <guid>https://hyounoh.github.io/tags/mysql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nginx</title>
-      <link>https://hyounoh.github.io/tags/nginx/</link>
-      <pubDate>Sat, 10 Oct 2020 02:00:00 +0900</pubDate>
-      
-      <guid>https://hyounoh.github.io/tags/nginx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reverse-proxy</title>
-      <link>https://hyounoh.github.io/tags/reverse-proxy/</link>
-      <pubDate>Sat, 10 Oct 2020 02:00:00 +0900</pubDate>
-      
-      <guid>https://hyounoh.github.io/tags/reverse-proxy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>web</title>
-      <link>https://hyounoh.github.io/tags/web/</link>
-      <pubDate>Sat, 10 Oct 2020 02:00:00 +0900</pubDate>
-      
-      <guid>https://hyounoh.github.io/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blog</title>
-      <link>https://hyounoh.github.io/tags/blog/</link>
-      <pubDate>Fri, 09 Oct 2020 02:00:00 +0900</pubDate>
-      
-      <guid>https://hyounoh.github.io/tags/blog/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>Hyounoh Shim © {year}</copyright><atom:link href="https://hyounoh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
